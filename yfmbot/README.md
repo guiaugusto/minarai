@@ -10,6 +10,33 @@ Este é um simples bot que joga com alguns [personagens específicos](#personage
 - Pegasus (Not implemented yet)
 - Heishin (Not implemented yet)
 
+## Comportamento dos personagens
+
+### Meadow Mage
+
+O Meadow Mage possui comportamentos de duelistas normais, sendo possível cometer erros como atacar monstros mais fortes que o que ele tem (quando a carta está setada para baixo) e ativar carta de campo (Sogen) sem monstros no campo. O objetivo com o duelo contra ele se tem pela qualidade das cartas que ele oferece quando se há uma vitória de rank alto (A-POW e S-POW), podendo oferecer as seguintes cartas:
+
+- Dark Magician (2500/2100)
+- Gaia the Fierce Knight (2300/2100)
+- Curse of Dragon (2000/1500)
+- Kaminari Attack (1900/1400)
+- Skull Knight (2650/2250)
+- Warrior of Tradition (1900/1700)
+- Meteor Dragon (1800/2000)
+- Meteor B. Dragon (3500/2000)
+- Firewing Pegasus (2250/1800)
+
+Para o duelo contra ele, o bot tentará sempre realizar alguma fusão (ou combo) que consiga ultrapassar as principais cartas dele. Ele também precisa tomar cuidado com os combos preparados pelo Meadow Mage, sendo eles:
+
+- Sogen + Millenium Shield (500/3500)
+- Sogen + Qualquer guerreiro (na média de 2000 à 2500 de atk)
+- Sogen + Judge Man (2700/2000)
+- Sogen + Empress Judge (2600/2200)
+
+#### Observações
+
+O guardião do Millenium Shield será sempre Uranos, sendo forte contra a carta principal a ser possível fusionar: Twin-Headed Thunder Dragon (2800/2100), onde ele pode ser Pluto (Fraco contra Uranos), ou Moon (Fraco contra Sun). Logo, com o Sogen no campo, é grande a chance do duelo falhar caso não seja usado algum recurso para eliminar as principais cartas dele: Millenium Shield, Judge Man e Empress Judge (que podem ocasionar problemas relacionados ao ranking e até ao estado do duelo).
+
 ## Comportamento do Bot
 
 O bot precisa estar atento tanto nas cartas principais citadas acima quanto nos guardiões relacionado as cartas setadas pelo oponente, sabendo os momentos necessários para atacar ou até arriscar um ataque, realizando fusões de acordo com a base de dados de combos, fusões e equipes, realizando uma análise de qual o melhor movimenento para determinado caso.
