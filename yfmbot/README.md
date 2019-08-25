@@ -16,15 +16,14 @@ Este é um simples bot que joga com alguns [personagens específicos](#personage
 
 O Meadow Mage possui comportamentos de duelistas normais, sendo possível cometer erros como atacar monstros mais fortes que o que ele tem (quando a carta está setada para baixo) e ativar carta de campo (Sogen) sem monstros no campo. O objetivo com o duelo contra ele se tem pela qualidade das cartas que ele oferece quando se há uma vitória de rank alto (A-POW e S-POW), podendo oferecer as seguintes cartas:
 
-- Dark Magician (2500/2100)
-- Gaia the Fierce Knight (2300/2100)
-- Curse of Dragon (2000/1500)
-- Kaminari Attack (1900/1400)
-- Skull Knight (2650/2250)
-- Warrior of Tradition (1900/1700)
-- Meteor Dragon (1800/2000)
-- Meteor B. Dragon (3500/2000)
-- Firewing Pegasus (2250/1800)
+- [Dark Magician](https://yugioh.fandom.com/wiki/Dark_Magician_(FMR)) (2500/2100)
+- [Gaia the Fierce Knight](https://yugioh.fandom.com/wiki/Gaia_the_Fierce_Knight_(FMR)) (2300/2100)
+- [Curse of Dragon](https://yugioh.fandom.com/wiki/Curse_of_Dragon_(FMR)) (2000/1500)
+- [Kaminari Attack](https://yugioh.fandom.com/wiki/Kaminari_Attack_(FMR)) (1900/1400)
+- [Skull Knight](https://yugioh.fandom.com/wiki/Skull_Knight_(FMR)) (2650/2250)
+- [Meteor Dragon](https://yugioh.fandom.com/wiki/Meteor_Dragon_(FMR)) (1800/2000)
+- [Meteor B. Dragon](https://yugioh.fandom.com/wiki/Meteor_B._Dragon_(FMR)) (3500/2000)
+- [Firewing Pegasus](https://yugioh.fandom.com/wiki/Firewing_Pegasus_(FMR)) (2250/1800)
 
 Para o duelo contra ele, o bot tentará sempre realizar alguma fusão (ou combo) que consiga ultrapassar as principais cartas dele. Ele também precisa tomar cuidado com os combos preparados pelo Meadow Mage, sendo eles:
 
