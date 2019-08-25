@@ -2,7 +2,13 @@
 
 ## Descrição
 
-Este é um simples bot que joga com alguns personagens específicos para automatizar o processo de _farm_ no jogo, para ser possível ganhar cartas que são difíceis de conseguir.
+Este é um simples bot que joga com alguns [personagens específicos](#personagens-disponiveis) para automatizar o processo de _farm_ no jogo, para ser possível ganhar cartas que são difíceis de conseguir.
+
+## Personagens disponíveis
+
+- Meadow Mage (Not implemented yet)
+- Pegasus (Not implemented yet)
+- Heishin (Not implemented yet)
 
 ## Description
 
