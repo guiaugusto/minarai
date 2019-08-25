@@ -27,10 +27,10 @@ O Meadow Mage possui comportamentos de duelistas normais, sendo possível comete
 
 Para o duelo contra ele, o bot tentará sempre realizar alguma fusão (ou combo) que consiga ultrapassar as principais cartas dele. Ele também precisa tomar cuidado com os combos preparados pelo Meadow Mage, sendo eles:
 
-- Sogen + Millenium Shield (500/3500)
-- Sogen + Qualquer guerreiro (na média de 2000 à 2500 de atk)
-- Sogen + Judge Man (2700/2000)
-- Sogen + Empress Judge (2600/2200)
+- [Sogen](https://yugioh.fandom.com/wiki/Sogen_(FMR)) + [Millenium Shield](https://yugioh.fandom.com/wiki/Millennium_Shield_(FMR)) (500/3500)
+- [Sogen](https://yugioh.fandom.com/wiki/Sogen_(FMR)) + Qualquer guerreiro (na média de 2000 à 2500 de atk)
+- [Sogen](https://yugioh.fandom.com/wiki/Sogen_(FMR)) + [Judge Man](https://yugioh.fandom.com/wiki/Judge_Man_(FMR)) (2700/2000)
+- [Sogen](https://yugioh.fandom.com/wiki/Sogen_(FMR)) + [Empress Judge](https://yugioh.fandom.com/wiki/Empress_Judge_(FMR)) (2600/2200)
 
 #### Observações
 
